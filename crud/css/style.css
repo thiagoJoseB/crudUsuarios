@@ -1,0 +1,117 @@
+
+#cadastro{
+    width: 600px;
+    height: 300px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+  /* padding-top: 5px;*/
+   
+    box-sizing: border-box;
+    
+}
+
+.cadastroUsuario{
+    width:inherit;
+    height: 60px;
+    background-color: slateblue;
+    margin-top: 10px;
+    
+    
+}
+
+
+#botao{
+    height: 50px;
+    width: 70px;
+    margin-left: 240px;
+   margin-top:20px;
+}
+
+
+
+.inputCadastro{
+   width: 400px;
+    height: 30px;
+    margin-left: 80px;
+    margin-top: 15px;
+    box-sizing: border-box;
+    
+}
+
+.labelRegistro{
+    margin-left: 20px;
+    box-sizing: border-box;
+    background-color: white;
+
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.colunasRegistro{
+    width: 100px;
+    height: 50px;
+    background-color: white;
+     padding-left: 5px;
+
+    
+    
+}
+
+.clnRegistro{
+    width: 100px;
+    height: 50px;
+    background-color: lightskyblue;
+    
+}
+
+.tblRegistro{
+     width: 600px;
+    height: 100px;
+    background-color: blue;
+    margin: auto;
+    margin-top: 100px;
+   
+    
+}
+
+.colunasResultado{
+     width: 100px;
+    height: 50px;
+    background-color:beige;
+    
+}
+
+
+.editar{
+   width: 40px;
+    height: 40px;
+    padding-left: 20px;
+}
+
+
+.excluir{
+    width: 40px;
+    height: 40px;
+     padding-left: 20px;
+    
+}
+
+
+
+
